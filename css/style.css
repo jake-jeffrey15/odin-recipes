@@ -22,7 +22,7 @@ h1
 .ai-food
 {
     width: 40%;
-    length: 40%;
+    height: 40%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -32,4 +32,6 @@ h1
 .food-list
 {
     text-align: center;
+    
 }
+
