@@ -32,13 +32,24 @@ h1
     
 }
 
-.food-list
+.food-list 
 {
     text-align: center;
     color: yellow;
-    font-size: 80px;
-
+    
+    
 }
+.box
+{
+    box-sizing: border-box;
+    border: 20px solid red;
+    margin: 10px;
+    width: 960px;
+    padding: 10px;
+    margin-left: 800px;
+    font-size: 80px;
+}
+
 
 button
 {
